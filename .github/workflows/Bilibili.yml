@@ -6,7 +6,7 @@
 name: Bilibili
 
 on:
-   push:
+  # push:
      branches: main
    gollum:
    workflow_dispatch:
